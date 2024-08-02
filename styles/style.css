@@ -100,7 +100,7 @@ ul {
 /* home */
 
 .home {
-    background-image: url("/imges/slider-image2.jpg");
+    background-image: url("../imges/slider-image2.jpg");
     background-size: cover;
 }
 
